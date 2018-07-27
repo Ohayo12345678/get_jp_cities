@@ -19,6 +19,8 @@ English document is in the file.
 ##### コマンドラインから実行してjsonファイルを作る
     python get_jp_cities Your_api_key
 ファイル名は'jp_cities.json'です。
+Pythonでプログラミングしない方でもインタプリタとRequestsパッケージが入っていれば、
+jsonファイルが取得可能です。
 
 
 ##### 他のモジュールでインポートして、jsonファイルを作る
